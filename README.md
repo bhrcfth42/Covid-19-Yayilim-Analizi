@@ -10,3 +10,6 @@
 ![Covid-19 Yayılım Analizi_Sayfa_6](https://user-images.githubusercontent.com/50529546/124367756-b9f9e580-dc62-11eb-8365-a551f36459d3.jpg)
 ![Covid-19 Yayılım Analizi_Sayfa_7](https://user-images.githubusercontent.com/50529546/124367757-ba927c00-dc62-11eb-8098-bb5ed706b811.jpg)
 ![Covid-19 Yayılım Analizi_Sayfa_8](https://user-images.githubusercontent.com/50529546/124367758-bb2b1280-dc62-11eb-827e-f090cce33bad.jpg)
+
+# PDF
+[Covid-19-Yayilim-Analizi.pdf](https://github.com/bhrcfth42/Covid-19-Yayilim-Analizi/files/6759083/algoritmaTasarimOdev_1_2020.pdf)
